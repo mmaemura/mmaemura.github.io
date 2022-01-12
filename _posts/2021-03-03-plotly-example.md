@@ -24,3 +24,5 @@ write_html(fig, "example_fig.html")
 ```
 
 {% include example_fig.html %}
+
+{% include my_fancy_plot.html %}
